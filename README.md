@@ -2,7 +2,8 @@
 
 This Github repository comprises all code files utilized in the video lectures of my Data Science and Analytics course. Those who wish to acquire a comprehensive understanding of Data Science may find it useful to visit my course website.
 
-Course Link: https://learneverythingai.com/data-science-analytics-super-combo-course
+- Course Link: https://learneverythingai.com/data-science-analytics-super-combo-course
+- Website: https://www.learneverythingai.com
 
 ## Introduction
 
