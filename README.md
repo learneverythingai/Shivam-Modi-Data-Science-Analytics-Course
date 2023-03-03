@@ -1,5 +1,9 @@
 # Shivam-Modi-Data-Science-Analytics-Course
 
+This Github repository comprises all code files utilized in the video lectures of my Data Science and Analytics course. Those who wish to acquire a comprehensive understanding of Data Science may find it useful to visit my course website.
+
+Course Link: https://learneverythingai.com/data-science-analytics-super-combo-course
+
 ## Introduction
 
 Welcome to Learn Everything AI. My name is Shivam Modi and I am a Data Scientist as well as the Course Designer for this program. Our comprehensive course covers a variety of tools and techniques that will enable you to pursue a successful career in Data Science, all conveniently available on a single platform.
@@ -15,5 +19,5 @@ This repository hosts the code files that were utilized in the video lectures. T
 
 ## My Social Media (Kindly consider connecting with me)
 
-1. LinkedIn: https://www.linkedin.com/in/shivam-modi-datascientist/
+1. LinkedIn: https://www.linkedin.com/in/shivam-modi-datascientist
 2. Instagram: www.instagram.com/learneverythingai
