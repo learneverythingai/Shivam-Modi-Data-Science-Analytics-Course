@@ -20,5 +20,5 @@ This repository hosts the code files that were utilized in the video lectures. T
 
 ## My Social Media (Kindly consider connecting with me)
 
-1. LinkedIn: https://www.linkedin.com/in/shivam-modi-datascientist
-2. Instagram: www.instagram.com/learneverythingai
+- LinkedIn: https://www.linkedin.com/in/shivam-modi-datascientist
+- Instagram: www.instagram.com/learneverythingai
