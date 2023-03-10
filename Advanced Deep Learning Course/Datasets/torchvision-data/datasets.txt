@@ -1,0 +1,5 @@
+Or you can just use this url to open data instead of uploading the entire dataset.
+
+https://www.kaggle.com/datasets/blessontomjoseph/dataset-1-and-dataframe
+
+https://www.kaggle.com/datasets/blessontomjoseph/dataset-2
